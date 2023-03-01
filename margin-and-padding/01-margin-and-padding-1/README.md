@@ -12,5 +12,3 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - There is a 48px gap between Div Two and Div Three.
 - Div Three is aligned to the right.
 - Div Three's alignment is achieved using `margin` (and not float, flexbox, etc.).
-
-this is me adding a test to make sure that I can right to the github using the ubuntu repo.
