@@ -1,0 +1,30 @@
+/*
+
+button:
+font-size 28px
+font should be Helvetica, Times new Romans, San Serif
+
+left: 
+background color: black
+color: white
+
+right:
+background color: yellow
+color: black
+
+*/
+
+.button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.left {
+    background-color: black;
+    color: white;
+}
+
+.right {
+    background-color: yellow;
+    color: black;
+}
